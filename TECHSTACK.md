@@ -46,8 +46,6 @@
 | Crate | Version | Purpose |
 |-------|---------|---------|
 | **mac_address** | `1.1` | Get MAC addresses |
-| **hostname** | `0.4` | Get hostname *(optional)* |
-| **whoami** | `1.5` | Get username *(optional)* |
 
 ### 🎛️ COMMAND LINE PARSING
 
@@ -85,3 +83,4 @@
 | **base64** | `0.22` | Base64 encoding for keys |
 | **hex** | `0.4` | Hex encoding |
 
+# NOTE THAT THIS IS A TEMPORARY TECHSTACK, WHILE THE PROGRAMMING IS BEING DONE. AFTER FINISHING THE FIRST VERSION, THIS WILL BE UPDATED.
