@@ -16,9 +16,9 @@ Basically, for 4 main reasons.
  
  
 --- 
-#TECH STACK 
+# TECH STACK 
  
-###(Recomended by deepseek, could be changed later)
+### (Recomended by deepseek, could be changed later)
  
 - **TUI:** ratatui
 - **Async** runtime: tokio
